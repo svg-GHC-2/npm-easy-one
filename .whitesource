@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
   "hostRules": [
     {
-      "matchHost": "@wss-support:https://npm.pkg.github.com",
+      "matchHost": "https://npm.pkg.github.com/wss-support",
       "hostType": "npm",
       "encrypted": {
         "token": "wcBMA8xOaBJvzJNbAQf+NBRgTj9zbvZpv8tU2vmEd42W959ZVDkJGEjiN+IuOD6bks9gyLlBgAaGVBOs0+Evz5FQt12ustZI8Xkh9xmfCL+YzDAaS/IrjV4Bw6/aea19HOr+IMCWEN59PZwbiNsUqIyeysWGtPhbZduVy1A4E/umSIwW6Eb2NmNGCyV2R46DTdwG1qVwsFsy019UiACK96egiIOLmnjH5B1oZXhp5q+H7ZJTdB0DHZ6iFtDHT+Hr4qEJ0ZyiZPG4Nb+iJeIR8UUCvvUoyi2eY2u4sDWoqRlTK2Wm3BbfN20HaMaorl/doQvrQBeeDSqK+IlrmEMM+bW8ukSMSq2udtt5TAfifdJ4AQlFFuMxM6zVsMXLSBTTI/lIJjcgBsabSgbzC+GOaDsdIKrquyIs81BFu/M7kBbf0JSz2J0DLk9qe5ziFduJlbkaXi0UwEPHSgLeAmjBbccYTmBkRiGXwgJ2PANHy8177jHrzFHW1rHzh36oFXpxPSphDpIi29bC"
