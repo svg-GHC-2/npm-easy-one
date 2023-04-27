@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/svg-GHC-2/npm-easy-one#readme",
   "dependencies": {
-    "@wss-support/philippe": "^1.0.0"
+    "@wss-support/philippe": "^1.0.0",
+    "gulp": "^4.0.2"
   }
 }
