@@ -1,0 +1,23 @@
+{
+  "name": "npm-easy-one",
+  "version": "1.0.0",
+  "description": "An easy npm test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svg-GHC-2/npm-easy-one.git"
+  },
+  "author": "Samantha V Gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svg-GHC-2/npm-easy-one/issues"
+  },
+  "homepage": "https://github.com/svg-GHC-2/npm-easy-one#readme",
+  "dependencies": {
+    "@wss-support/philippe": "^1.0.0",
+    "gulp": "^4.0.2"
+  }
+}
