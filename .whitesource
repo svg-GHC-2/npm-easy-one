@@ -1,3 +1,12 @@
 {
-  "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master"
+  "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
+  "hostRules": [
+    {
+      "matchHost": "https://npm.pkg.github.com",
+      "hostType": "npm",
+      "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf8Ccnso5IRINku0o31bifsni0AK7R/0vYCZeN9fX/aHAiPwNcyp+J3rRUhLNCizxd8yn1n5YEn3vWcySZ0tu8WJ6Kq0eviI3AZ5rjw5Z8yn1K2Xox7xYooAoGRbuUD0glFkzYI/L9RDGD0keVG6cqmTh4dAtsFeSP8rv1tl9FIkt7g1PgY7YgZoLQxxW7dYKjMybkPI1es5xck5zkINESP2LGqfDlSMisdDRxU9TbYH9VGQMLtHmeH2fblbt7IJ91wNuDGwTRDn2Uc62hRQqjZ2cT9AJInRcu4KCl+kK5x/Wt26XT3gToAnEh3XAB1QtFMr4wPB58KeEZZyCwH6Qw5VtJ6AWOo6CGTfzAenSZII/UQXxfdYl9WGNaeNrplhPsKgsGVDFANZR+zkEkYaW/+p61EaXMrvpmvahItJcYbrm5jDaKO5/8AOAjck+q/yyLrx+2O5GlddQsGx7jr6puqZCIealDuzhxnlJgwqWAJ1DLJDLzM9a5bkg3evBI"
+      }
+    }
+  ]
 }
