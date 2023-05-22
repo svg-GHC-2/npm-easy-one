@@ -1,5 +1,8 @@
 {
   "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
+  "scanSettings": {
+    "baseBranches": []
+  },
   "hostRules": [
     {
       "matchHost": "https://npm.pkg.github.com/",
