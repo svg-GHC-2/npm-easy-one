@@ -1,8 +1,7 @@
 {
   "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
   "scanSettings": {
-    "baseBranches": [],
-    "configMode": "AUTO"
+    "baseBranches": []
   },
   "hostRules": [
     {
